@@ -1,3 +1,4 @@
+ HEAD
 # Braille AI Data Pipeline
 
 ## 📌 Overview
@@ -13,3 +14,7 @@ This ETL pipeline extracts text from scanned images, structures it into JSON, an
 - Python 3.x
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - Python Packages:
+
+# Braille-Data-Pipeline
+ETL pipeline to convert scanned images to Braille using OCR and Liblouis
+
