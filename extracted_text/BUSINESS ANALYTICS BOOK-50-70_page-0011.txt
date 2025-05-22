@@ -1,0 +1,109 @@
+‘usiness Analytics
+
+te
+
+Data
+
+Integration
+
+Granularity
+
+2-14
+
+Data warehouses involve complex
+data integration processes,
+including data extraction,
+transtormation and loading (ETL)
+They consolidate data trom various:
+operational systems and external
+sources, ensuring consistency and
+
+uniformity.
+
+>
+
+Business |
+—— Mle ligen.,
+
+Data marts can be created by
+extracting and transforming data
+from the data warehouse or Other
+relevant data sources. They are
+designed to support the specific
+reporting and analysis requirements
+ofa particular business unit or
+domain.
+
+Data warehouses typic
+
+data at a detailed or transactional
+level. They contain highly detailed
+and granular data that supports
+complex analytics and ad-hoc
+reporting.
+
+Data marts can have different level
+of granularity depending on the
+requirements of the specific subject
+area. They can store data at a
+summarized or aggregated level to
+support specific reporting and
+analysis needs.
+
+Architecture
+
+Data warehouses are designed using
+a dimensional or normalized data
+model. They often employ a star
+schema or snowflake schema to
+facilitate efficient querying and
+analysis across multiple dimensions
+and measures.
+
+Data marts typically follow a
+dimensional modeling approach.
+such as a star schema, to simplify
+data structures and facilitate easier
+querying and analysis within the
+specific subject area.
+
+oy
+
+6
+
+Usage
+
+Data
+
+Governance
+
+Data warehouses serve as a central
+hub for enterprise-wide reporting,
+analytics and decision-making.
+They support strategic, operational
+and tactical analysis, enabling
+business users to gain insights and
+perform historical trend analysis,
+
+Data marts are tailored to the needs
+of a specific business unit,
+department or user group. They
+provide a focused view of data,
+supporting specific operational
+reporting, analysis and decision-
+making within a particular domain.
+
+Data warehouses typically have
+robust data governance practices in
+place to ensure data quality,
+consistency and compliance, They
+involve data stewardship, metadata
+management and data governance
+frameworks to maintain the
+integrity of the data,
+
+Data marts may have their own data
+governance practices, but they oftel
+inherit the data governance policies
+and frameworks established at the
+data warehouse level.

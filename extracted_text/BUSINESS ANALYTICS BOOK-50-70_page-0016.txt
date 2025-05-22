@@ -1,0 +1,56 @@
+Business Analytics 2. F@ Business Intelligence
+
+Knowledge Management Tools
+
+¢ Some common tools and technologies used in Knowledge Management
+
+1.
+
+10.
+
+Knowledge Management Systems (KMS) : [hese are specialized software
+
+platforms designed to capture, store, organize and share knowledge within an
+organization. KMS often include features such as document management.
+collaboration tools, knowledge bases and search functionalities.
+
+Content Management Systems (CMS) : CMS platforms enable organizations to
+create. store and manage digital content, including documents, articles and
+multimedia. They play a role in organizing and sharing explicit knowledge.
+
+Intranet Portals : Company intranets act as centralized hubs where employees can
+access important information, documents and knowledge resources. They often
+include communication tools, news feeds and collaboration features.
+
+Wikis : Collaborative wiki platforms allow employees to contribute, edit and update
+knowledge collaboratively. Wikis are valuable for capturing and sharing both explicit
+and tacit knowledge.
+
+Document Management Systems (DMS) : DMS software organizes. tracks and
+manages electronic documents. It helps in version control and ensures that the latest
+information is available to users.
+
+Learning Management Systems (LMS) : LMS platforms facilitate employee
+training, development and knowledge sharing through courses, quizzes and learning
+resources.
+
+Collaboration and Communication Tools : Tools like instant messaging, video
+conferencing and team collaboration platforms encourage real-time knowledge
+sharing and collaboration among employees.
+
+Data Analytics and Business Intelligence Tools : These tools aid in analyzing data
+and generating insights from various sources, contributing to the organization's
+
+knowledge assets.
+
+. Social Media and Enterprise Social Networks : Social media platforms and
+
+internal social networks foster informal knowledge sharing and communication
+among employees.
+
+Knowledge Mapping Tools : These tools help visualize knowledge networks,
+expertise and relationships within the organization, aiding in identifying knowledge
+
+gaps and areas for improvement.
+
+4

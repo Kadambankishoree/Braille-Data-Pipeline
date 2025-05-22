@@ -1,0 +1,63 @@
+Business Analytics 2-16 Business Intolligence
+
+enable decision-makers to grasp complex information quickly and make timely
+decisions.
+
+6. Learning from Past Decisions : KM in BL allows organizations to capture and learn
+from past decisions and their outcomes. ‘This process helps in refining business
+
+es over time.
+
+Strategies and improving decision-making proc
+
+7. Identifying Knowledge Gaps : By analyzing data and knowledge assets, KM can
+identify ar
+
+where additional information or expertise is needed. This insight helps
+in directing efforts towards filling knowledge gaps and improving the overall
+decision-making process.
+
+8. Supporting Business Strategy : Knowledge Management aligns with the
+organization's strategic goals and ensures that BI efforts are directed towards
+supporting those goals effectively,
+
+9. Data Governance and Compliance : KM in BI helps in establishing data
+governance policies, ensuring data quality and maintaining compliance with relevant
+regulations. This ensures that the BI process is built on reliable and accurate data.
+
+Key Elements of Knowledge Management
+
+* Knowledge Management is an integral part of Business Intelligence, as it enables
+organizations to turn raw data into meaningful insights and supports effective decision-
+making at all levels. A well-implemented KM strategy enhances the value of BI by
+ensuring that knowledge is effectively captured, shared, and utilized across the
+organization.
+
+* Knowledge Management (KM) is the process of capturing, organizing, storing.
+retrieving, and sharing knowledge within an organization to enhance learning, improve
+
+decision-making, foster innovation, and increase overall productivity and efficiency. It
+
+involves creating an environment where knowledge and expertise are v
+
+employees are encouraged to collaborate,
+
+alued, and
+
+learn from one another, and leverage
+collective knowledge to achieve organizational goals.
+
+¢ Key elements of Knowledge Management include :
+
+1. Knowledge Creation : This involves generating new knowledge through research,
+
+analysis and innovation. It can be the result of individual insights, team
+collaborations or external information assimilation,
+
+2. Knowledge Capture : Knowledge needs to be captured and recorded in various
+
+formats, such as documents, databases, wikis, videos or other repositories, Capturing
+knowledge is essential to preserve it and make it accessible to others
+
+— —_ et
+TECHNICAL PUBLICATIONS - an up-thrust for knowledge

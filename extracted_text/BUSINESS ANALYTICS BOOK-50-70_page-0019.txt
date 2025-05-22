@@ -1,0 +1,49 @@
+> 4
+
+Busi Po
+USINESS Analytics i ; 2-22 Business Intelligencs
+
+1. Strategic Decisions :
+
+Strategic decisions are high-level decisions made by top-level executives ang
+
+management that have a long-term impact on the organization. These decisions are
+related to the overall direction and goals of the business and often involve allocating
+resources, entering new markets, forming partnerships or making major investments,
+Busines
+
+Intelligence helps in strategic decision-making by providing insights into
+industry trends, market opportunities, competitive analysis and performance metrics that
+
+aid in setting the organization's strategic direction.
+2. Tactical Decisions :
+
+¢ Tactical decisions are mid-level decisions made by middle management and
+departmental heads to achieve specific objectives and improve operational efficiency.
+These decisions involve optimizing processes, resource allocation and performance
+improvement within the organization. Business Intelligence supports tactical decision-
+making by providing real-time or near-real-time data on key performance indicators
+(KPIs), operational metrics, and departmental performance. BI tools enable managers to
+monitor progress, identify bottlenecks, and take corrective actions to achieve their
+objectives.
+
+3. Operational Decisions :
+© Operational decisions are day-to-day decisions made by front-line employees and
+supervisors to carry out routine tasks and handle operational issues. These decisions are
+typically short-term and aim to ensure smooth workflow and meet immediate business
+needs. Business Intelligence aids operational decision-making by providing real-time
+data, operational reports and dashboards that enable employees to quickly access
+information and make informed decisions to address operational challenges efficiently.
+© Business Intelligence tools and technologies play a crucial role in supporting all these
+types of decisions by providing timely, accurate and actionable insights. By analyzing
+data and transforming it into meaningful information, BI empowers decision-makers at
+all levels of the organization to make informed choices, improve business processes and
+
+drive overall performance.
+
+Se enii |
+J. What are types of decisions.
+
+_———
+
+TECHNICAL PUBLICA Tions® ~ an up-thrust for knowledge

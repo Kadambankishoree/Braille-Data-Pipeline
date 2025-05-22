@@ -1,0 +1,52 @@
+—_
+
+Business Analytics 2-5 a Business Intelligence
+
+3. Enhanced Decision-Making : By providing a centralized repository of reliable,
+consistent and historical data, data warehouses facilitate better decision-making.
+They enable users to analyze trends, identify patterns and gain insights into business
+performance, customer behavior, market trends and other relevant factors.
+
+4. Scalability and Flexibility
+
+volumes of data. They can accommodate evolving business needs and changing data
+
+: Data warehouses are scalable and can handle large
+
+requirements, making it easier to adapt to new data sources, business processes or
+analytical demands.
+¢ In summary, a data warehouse is a central repository that integrates and organizes data
+from various sources, enabling efficient data analysis and informed decision-making. It
+provides a unified and historical view of data, ensuring data quality and consistency for
+analytical purposes. Data warehouses play a vital role in supporting business
+intelligence, reporting and data-driven strategies in organizations.
+
+EXE) Data Warehouse Components
+
+e A data warehouse consists of several key components that work together to enable
+efficient data storage, integration and analysis. These components include :
+
+1. Data Sources : Data warehouses gather data from diverse sources within an
+organization. These sources can include operational databases, transactional systems,
+external data feeds, spreadsheets and other data repositories. The data sources
+provide the raw data that will be transformed and loaded into the data warehouse.
+
+2. Extract, Transform, Load (ETL) Process : The ETL process involves extracting
+data from various sources, transforming it into a consistent format and loading it into
+the data warehouse. Extraction involves selecting and retrieving relevant data from
+the source systems. Transformation involves cleaning, filtering, aggregating and
+structuring the data to ensure consistency and quality. Finally, loading involves
+inserting the transformed data into the appropriate tables within the data warehouse.
+
+3. Data Warehouse Database : The data warehouse database is the core component
+that stores the integrated and structured data. It is optimized for analytical processing
+and provides a scalable and high-performance environment for storing and querying
+large volumes of data. The data warehouse database is typically designed using a
+relational database management system (RDBMS) such as Oracle, Microsoft SQL
+Server or PostgreSQL.
+
+4. Data Modeling : Data modeling is the process of designing the structure and
+
+relationships within the data warehouse database. It involves creating a logical
+
+TECHNICAL PUBLICATIONS® - an up-thrust for knowledge

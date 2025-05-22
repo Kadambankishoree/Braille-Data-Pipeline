@@ -1,0 +1,56 @@
+Business Analytics 2-15 Business intelligence
+
+© While a data warehouse serves as a centralized repository for integrated enterprise-wide
+data. a data mart is a specialized subset of a data warehouse that focuses on a specific
+subject area or user group. Data warehouses are designed for comprehensive and
+strategic analysis. while data marts cater to the specific needs of individual departments
+
+or business functions
+
+Review Ques
+
+| 1. What are data warehouse components
+
+| 2. Compare data mart versus data warehouse.
+
+Knowledge Management
+
+e¢ Knowledge Management (KM) plays a crucial role in the field of Business Inte!\iger
+
+(Bl) as it enables organizations to effectively gather, store, organize. analyze and share
+
+knowledge to make informed business decisions. KM in BI involves the systematic
+
+management of information, data and expertise, turning them into actionable insights
+and creating a competitive advantage for the organization. Here's how KM is related to
+
+BI:
+
+1. Data Collection and Integration : Knowledge Management starts with collecting
+and integrating data from various sources, including internal databases. externa! data
+feeds. social media and more. The goal is to gather relevant and accurate information
+to support BI processes effectively.
+
+2. Data Storage and Organization : KM ensures that the data collected is stored in a
+structured and easily accessible manner. This organization is critical for BI as it
+allows analysts and decision-makers to quickly locate and use the required data for
+analysis.
+
+3. Data Analysis : KM provides the tools and methodologies for data analysis. In BL,
+this involves the use of various techniques such as data mining, statistical analysis,
+machine learning and artificial intelligence to derive meaningful insights trom the
+data.
+
+4. Knowledge Sharing and Collaboration : KM promotes knowledge sharing and
+collaboration among employees, which is vital in BL When BL insights are shared
+across different departments and teams, decision-makers cau make informed choices
+based on a holistic view of the business
+
+Reporting and Visualization : KM helps in creating interactive and visually
+
+wn
+
+appealing reports and dashboards. [hese visualizations are crucial in BI as they
+
+TECHNICAL PUBLICATIONS® - an up-thrust for knowledge
+

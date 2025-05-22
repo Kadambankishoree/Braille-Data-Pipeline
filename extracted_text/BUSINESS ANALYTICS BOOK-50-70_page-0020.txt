@@ -1,0 +1,56 @@
+1.
+
+Business Analytics 2-23 Business Intelligence
+
+EZ] Decision Making Process
+
+© The decision-making process refers to the systematic approach used to make data-driven
+decisions based on insights and analysis provided by BI tools and technologies. It
+involves the following steps :
+
+Data Collection : The decision-making process in BI begins with collecting relevant
+data from various sources, such as databases, spreadsheets, data warehouses, cloud-
+based applications, social media and other data repositorics.
+
+. Data Integration : Once the data is collected, it needs to be integrated and
+
+consolidated into a central repository or data warehouse, Data integration ensures
+that information from different sources is combined into a cohesive and consistent
+format.
+
+Data Analysis : The next step is to analyze the data using various BI techniques,
+such as data mining, statistical analysis
+
+. machine learning and other analytical
+methods. The goal is to derive meaningful insights and patterns from the data.
+
+Data Visualization : After the data is analyzed, the results are presented in the form
+of visualizations, such as charts, graphs, dashboards and reports. Visualizations help
+decision-makers grasp complex information quickly and make data-driven decisions
+effectively.
+
+Interpretation and Insights : Decision-makers interpret the visualizations and
+insights to understand the implications of the data analysis. They seek to identify
+trends, correlations and patterns that can inform their decision-making process.
+Decision Making : Based on the insights gained from the BI analysis, decision-
+makers evaluate different options and make informed choices. They consider the
+potential impact of each option on the business and select the best course of action.
+
+. Implementation : Once the decision is made, it is put into action through specific
+
+plans, projects or initiatives. The BI insights help in shaping the implementation
+strategy and tracking progress toward achieving the desired outcomes.
+
+. Monitoring and Evaluation : After implementation, decision-makers monitor the
+
+results and evaluate the effectiveness of their decisions. BI tools play a crucial role in
+ongoing monitoring, allowing stakeholders to assess whether the chosen actions are
+producing the desired outcomes or if adjustments are needed.
+
+. Feedback and Continuous Improvement : Feedback from the implementation and
+
+evaluation stages is used to improve the decision-making process continuously.
+Insights gained from BI analyses are fed back into the system, enabling organizations
+to refine their strategies and adapt to changing business needs.
+
+TECHNICAL PUBLICATIONS® - an up-thrust for knowledge

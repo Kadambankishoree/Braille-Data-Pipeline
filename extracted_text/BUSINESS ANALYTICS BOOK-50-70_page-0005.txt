@@ -1,0 +1,55 @@
+Business Analytics 2-8 Business Intelligenc,
+
+8. Data Governance : Data governance practices and standards still apply to da,
+
+marts, ensuring data quality, consistency and security. While data governance May by
+More focused within the scope of a specific data mart, it is important to align the dar,
+art's practices with the overall data governance framework of the organization,
+
+¢ Data marts provide a means to deliver targeted, subject-specific data and analytic,
+
+capabilities to users, enabling them to gain insights and make informed decisions withi,
+
+their respective domains, They can be standalone entities or integrated with a larger day,
+
+Warehouse infrastructure, depending on the organization's requirements and dat
+
+Warehousing strategy.
+
+¢ Data marts provide a localized and tailored solution for specific user groups, enabling
+
+them to access and analyze data that is directly relevant to their business area. They
+
+complement the central data warehouse by delivering focused analytical capabilities and
+
+empowering users to make data-driven decisions within their domain.
+
+ERE] cost Effective Data Mart
+
+¢ Creating a cost-effective data mart within a data warehouse involves implementing
+strategies and best practices to optimize resources and minimize expenses. Here are
+some approaches to consider :
+
+1, Data Mart Consolidation : Instead of creating multiple individual data marts for
+each subject area or department, consider consolidating related data marts into a
+single, unified data mart. This consolidation reduces the infrastructure and
+maintenance costs associated with managing multiple data marts.
+
+2. Incremental Development : Adopt an incremental development approach to build
+data marts gradually. Start with the most critical or high-priority subject areas and
+expand as needed. This approach allows you to prioritize resources and allocate
+budget based on the immediate needs and business value.
+
+3. Data Mart Virtualization : Explore the possibility of virtualizing data marts rathe!
+than physically creating separate instances. Virtualization allows you to leverage tht
+existing infrastructure and resources of the data warehouse, minimizing addition®!
+hardware and software costs associated with maintaining separate data marts.
+
+4. Data Mart Automation : Implement automation tools and processes for data m®"
+development, maintenance and updates. Automation reduces manual effort, sa
+time and lowers operational costs. This can include automating data integration
+transformation, data model generation and metadata management tasks.
+
+TECHNICAL PUBLICA Tions® - an up-thrust for knowledge
+
+ee _

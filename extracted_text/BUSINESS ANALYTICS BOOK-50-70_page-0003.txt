@@ -1,0 +1,47 @@
+Business Analytics 2-6 Business Integer,
+
+schema that defines how data will be organized into dimension tables (describ, f
+business entities) and fact tables (containing measures and numerical data). Commo,
+modeling techniques used in data warehousing include star schema and Snowflak,
+schema.
+
+5. Metadata Management : Metadata is essential for understanding and Managing the
+data within a data warehouse. It provides information about the structure, Meaning
+and relationships of the data. Metadata management involves capturing, organizing
+and maintaining metadata, including data definitions, data lineage, transformatio,
+rules and business glossaries. Effective metadata management enables users to
+navigate and query the data warehouse effectively.
+
+6. Query and Analysis Tools : Data warehouses provide query and analysis tools that
+allow users to interact with the data and derive insights. These tools can range from
+simple SQL-based query interfaces to advanced Business Intelligence (BI) tools that
+offer visualizations, ad-hoc reporting and data exploration capabilities. Query and
+analysis tools enable users to extract information, perform aggregations. slice and
+dice the data and create reports and dashboards.
+
+7. Data Security and Access Control : Data warehouses contain valuable and
+
+sensitive business data. so robust security measures are crucial. Access control
+
+mechanisms ensure that only authorized users can access the data warehouse. Role-
+based access control, data encryption, data masking and auditing are commonl
+employed to protect data confidentiality, integrity and availability.
+
+8. Data Governance and Administration : Data governance refers to the overall
+management and governance of data within the data warehouse. It involves
+establishing policies. standards and procedures for data management, data quality
+and data usage. Data administration encompasses tasks such as_performan¢
+monitoring. backup and recovery, data archiving and system maintenance to ensut
+the smooth operation and reliability of the data warehouse.
+
+e These components work together to create a comprehensive and robust dat
+warehousing environment that supports data integration, storage and analysis. Each
+component plays a crucial role in facilitating efficient data processing, enabling users v
+extract valuable insights and make informed business decisions.
+
+| 2.1.3 Data Mart
+nart is a subset of a data warehouse that focuses on a specific subject at* °
+« In” jthin an organization. It is a smaller, more focused version of 4 da?
+department
+
+ee a PUBLICATIONS® - an up-thrust for knowledge

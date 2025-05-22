@@ -1,0 +1,62 @@
+10.
+
+11.
+
+12.
+
+Business Analytics 2-11 Business Intelligence
+
+and access controls. Ensure that the data mart design adheres to the organization's
+
+data governance framework and policies
+
+» Develop ETL Processes : Create the Extract. Transform, Load (ETL) processes to
+
+extract data from the source systems. transform it according to the data mart's
+requirements and load it into the data mart. This involves defining data mappings,
+
+transformations, data validation rules and error handling mechanisms.
+
+. Design Reporting and Analytical Capabilities : Determine the reporting and
+
+analytical capabilities that will be provided by the data mart. This can include pre-
+defined reports, ad-hoc query capabilities, online analytical processing (OLAP). data
+visualization and other tools or technologies to facilitate data analysis and decision-
+making.
+
+Performance Optimization : Optimize the performance of the data mart by creating
+appropriate indexes, defining partitions and implementing caching mechanisms
+Fine-tune the data mart's configuration and query performance to ensure efficient and
+responsive data access.
+
+Test and Validate : Conduct thorough testing and validation of the data mart to
+ensure its accuracy, reliability and usability. Test the ETL processes, data integrity.
+query performance and reporting capabilities. Validate the data mart against the
+business requirements and gather feedback from users to make necessary
+refinements.
+
+Deploy and Maintain : Deploy the data mart into the production environment and
+establish a maintenance plan for ongoing updates, data refreshes and performance
+monitoring. Monitor the data mart's usage, performance and user feedback to identify
+
+areas for improvement and make iterative enhancements.
+
+¢ The design of data marts should be an iterative and collaborative process, involving
+close collaboration between business stakeholders and data. The specific design process
+
+may vary depending on the organization's requirements, technologies used and available
+
+resources. It is essential to involve stakeholders, data architects and other relevant teams
+
+throughout the design process to ensure alignment with business objectives and optimal
+
+utilization.
+
+| 2.1.6 | Cost of Data Marts
+
+e The cost of implementing data marts can vary depending on several factors, including
+the organization's size, complexity of requirements, chosen technologies and
+
+deployment options, Here are some cost considerations to be considered :
+
+TECHNICAL PUBLICA Tions® - an up-thrust for knowledge

@@ -1,0 +1,47 @@
+>
+
+Business Inteljj le,
+Business Analytics 2-10 a)
+
+2.1.5] Designing Data Marts
+
+Designing data marts in a data warehouse involves several steps and considerations t
+ensure they effectively meet the analytical and reporting needs of Specific user groups «,
+
+departments. Here is a high-level overview of the design process
+
+1.
+
+ldentify Business Requirements + Start by understanding the specific busines,
+requirements and objectives of the user group or department for which the data man
+is being designed. This involves conducting interviews, workshops and discussion,
+With stakeholders to gather information about their data needs, Feporting
+requirements and analytical goals,
+
+» Define Subject Area : Determine the subject area that the data mart will focus on
+
+Determine Data Sources : Identify the relevant data sources that will provide the
+necessary data for the data mart. This can include data from the central data
+warehouse, operational databases, external systems or other sources. Understand the
+
+structure. format and quality of the data from each Source to assess its suitability for
+the data mart.
+
+metrics that will be analyzed.
+
+Data Extraction and Transformation: Determine the extraction and
+
+transformation processes required to populate the data mart with data from the
+identified sources. This may involve data cleansing, data integration, dats
+aggregation and other transformations to ensure the data is consistent, accurate and
+aligned with the data mart's requirements,
+
+Define Granularity ; Determine the level of granularity at which the data will b&
+Stored in the data mart. This depends on the analytical needs of the user group and
+the level of detail required for reporting and analysis. Strike a balance betwee!
+storing data at a granular level for detailed analysis and aggregating data for fast
+query performance.
+
+oe —=7 a See
+TECHNICAL PUBLICATIONS® - an Up-thrust for knowledg
+

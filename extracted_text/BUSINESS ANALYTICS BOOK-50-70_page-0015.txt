@@ -1,0 +1,92 @@
+“ss
+
+Busing ess Analytics Sait Business Intelligence
+
+| 2.2.2] Knowledge Management
+
+Process
+
+© The Knowledge Management (KM) process involves several steps to capture, Store,
+
+Organize, share and apply knowledge within an organization. These steps can Vary in
+
+their implementation depending on the organization's needs and objectives. Here are the
+
+typical Stages of the KM process :
+
+1. Knowledge Identification : The first step is to identify the knowledge that is
+valuable and relevant to the organization. This knowledge can be Xplicit
+(¢.g., documents, reports, databases) or tacit (e.g., expertise, experiences, skills),
+
+Knowledge Capture : Once the valuable knowledge is identified. it needs to bg
+captured
+
+»
+
+and documented. This Process involves gathering information through
+
+various means, such as interviews, surveys, workshops and data collection,
+
+Ma
+
+Knowledge Organization : Captured knowledge must be organized and
+
+categorized
+to facilitate easy retrieval
+
+and usage. Taxonomies. metadata and indexing are
+employed to structure and group knowledge items effectiv ely
+Knowledge Storage : The
+
+>
+
+captured and organized knowledge is then stored in
+
+repositories, databases, content Management systems or specialized knowledge
+
+management platforms. The storage
+
+infrastructure should ensure security,
+accessibility and version control
+5. Knowledge Retrieval : Employees should be able to retrieve knowledge quickly and
+efficiently when needed. User-friendly search interfaces and intuitive navigation aid
+in knowledge retrieval.
+
+a
+
+Knowledge Sharing : Sharing knowledge across the Organization is a crucial aspect
+
+through training sessions,
+platforms and know ledge:
+Knowledge Transfer : When employees leave the
+different roles, knowledge transfer proce
+
+of KM. This can be facilitated workshops, internal
+communications, collaborative -sharing events,
+
+rl
+
+Organization or transition 10
+sses ensure that their expertise and insights
+are passed on to others. Mentoring, shadowing and know ledge handover sessions are
+
+common methods for know ledge transfer,
+8. Knowledge Application : The ultimate goal of KM
+knowledge to improve decision-making,
+
+Knowledge should be integrated into daily
+
+is to apply the captured
+problem-solving and business processes-
+
+workflows and Strategic planning.
+9. Knowledge Evaluation : Continuous assi
+
+are essential to identify strengths, weakn
+from users and key performance indi
+effectiveness of KM efforts.
+
+esses and areas for improvement. Feedback
+cators (KPIs) can be used to gauge th
+
+TECHNICAL PUBLICATIONS® - an up-thrust for knowledge

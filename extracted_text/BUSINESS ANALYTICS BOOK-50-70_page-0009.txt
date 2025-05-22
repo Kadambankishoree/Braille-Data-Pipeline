@@ -1,0 +1,107 @@
+Business Int
+BUSINESS Intell
+12 Beh
+
+Business Analytics
+and software infrastructure, Bus
+
+we
+
+. Training and User Adoption Costs : Training users on how to utilize the data ma“
+
+— - ECHNICAL PUBLICATIONS® owledge
+E IONS™ - an up-thrust for knowledge
+
+Data marts require hardware
+
+essing needs.
+
+management
+as capacity, performance requiremen,
+
+Infrastructure Costs :
+
+support their storage and proc
+and database
+
+This includes servers, storage deviog
+
+systems. The Cost of the,
+
+networking equipment
+
+nts can vary based on factors such
+
+compone
+astructure IS used.
+
+ises or cloud-based infr:
+Depending on the techno
+nsing fees associated W
+ost can vary depending on the numbe
+
+odels. Open-source options cay
+
+and whether on-prem
+Licensing and Software Costs +
+
+implementing data marts, there may be
+
+logy stack chosen fy,
+lice! ith commerci
+software. databases and analytical tools. The c
+
+of users. features required and vendor pricing m
+
+licensing fees but may require additiong
+
+provide cost savings by eliminating
+resources for customization and support. 2.7
+Development and Implementation Costs : The cost of developing ani
+implementing data marts includes activities such as data modeling, data integration,
+ETL (Extract. Transform, Load) processes, data validation and testing. The level o}
+
+complexity and customization required will impact the overall development costs
+
+Hiring skilled resources or engaging external consultants can also add to the
+
+expenses.
+Data Quality and Governance Costs : Ensuring data quality and governance w ithin
+data marts requires establishing processes, tools and personnel dedicated to dat
+ship. data cleansing, metadata management and compliance. These activitie
+
+steward.
+Ive additional costs for data quality tools, data profiling, data lineage. dav
+
+may invo
+cataloging and regulatory compliance efforts.
+Maintenance and Support Costs : Ongoing maintenance and support costs shoul
+
+including activities such as monitoring data mart performance:
+rt. The
+
+ent
+
+be factored in,
+applying patches and upgrades, resolving issues and providing user suppo!
+
+level of complexity, the size of the user base and the need for ongoing enhancem
+
+or customizations will influence these costs.
+MY.
+
+effectively can contribute to the overall cost. This includes training sessions. U*
+documentation and continuous support to ensure user adoption and maximize
+value derived from the data marts.
+
+pand th
+
+Sealability and Expansion Costs : If the organization plans to scale or eX
+rdwa
+
+data marts in the future, additional costs may arise. This can include ha
+upgrades. software licensing adjustments, data integration efforts for incorporstil |
+
+new data sources and accommodating additional user requirement
+s S. —
+

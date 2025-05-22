@@ -1,0 +1,91 @@
+a,
+
+Business Analytics a Business Intetigens,
+
+2-4
+
+* Key characteristics and components of a data warehouse include :
+
+1. Data Integration : Data warehouses bring together data from multiple o
+Systems, such as transactional databases, CRM systems,
+chain systems and more,
+
+Perationa|
+
+financial systems, Supply
+
+This integration process involves extracting relevant data,
+
+a consistent structure and loading it into the warehouse.
+
+2. Structured Schema : Data in a dat
+schema, typically
+
+transforming it into
+
+a warehouse is organized using a structured
+a star schema or a snowflake schema. These schemas involve
+defining dimension tables (describin
+time, ete.) and fact tables (containin
+events),
+
+g business entities like customers, products,
+measures or numerical data related to business
+3. Historical Data Storage : Data warehouses store large volumes of historical data,
+capturing a long-term Perspective of business Operations. Historical data allows for
+
+trend analysis, identification of patterns and comparison of performance over time.
+
+4. Optimized for Analytics : Data warehouses are designed to support complex
+
+analytical queries and reporting. They are optimized for analytical
+enabling efficient execution of aggregations,
+
+manipulations required for data analysis.
+5. Data Quality and Consistency ;
+consistency. The integration proces:
+transformation to ensure data accu
+
+Processing,
+drill-downs, filtering and other data
+
+Data warehouses Prioritize data quality and
+
+S includes data cleansing, normalization and
+
+Tacy, consistency and reliability. This helps
+eliminate duplicate records, resolve inconsistencies and
+
+6. Separate from Operational Systems : Data warehouses are separate from
+Operational systems, which are optimized for transactional
+
+Separation ensures that the performance of Operational systems is
+by analytical queries and reporting activities,
+
+maintain data integrity.
+
+Processing. This
+not compromised
+
+The benefits of a data warehouse include :
+
+1. Integrated and Unified Data : Data warehouses Provide a unified view of dat®
+
+S, Organizations can elimina
+data silos and gain insights from cross-functional analy
+
+sis.
+2. Improved Performance :
+
+Data warehouses are
+analysis. They are optimized to handle complex
+reporting, resulting in faster query response
+compared to operational systems.
+
+designed for efficient querying ad
+analytical queries, aggregations "
+
+: . “
+times and improved performat®
+
+TECHNICAL PUBLICATIONS® - an up-thrusy for knowles...

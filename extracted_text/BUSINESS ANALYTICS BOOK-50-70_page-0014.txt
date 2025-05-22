@@ -1,0 +1,56 @@
+Business Analytics 247 Business Intelligence
+
+3
+
+a
+
+Knowledge Organization ; Once captured, knowledge needs to be organized and
+categorized in a manner that allows easy retrieval and use. Taxonomies. metadata,
+and indexing systems are often used for this purpose
+
+Knowledge Storage : Knowledge is stored in databases, content management
+systems or specialized knowledge management platforms. The storage infrastructure
+
+must be secure and easily accessible to authorized personnel.
+
+. Knowledge Retrieval : Making knowledge easily retrievable is crucial for effective
+
+knowledge management. Employees should be able to access relevant knowledge
+quickly when needed.
+
+Knowledge Sharing : Sharing knowledge throughout the organization is a
+fundamental aspect of KM. This can be facilitated through formal training programs.
+knowledge-sharing sessions, internal communications and collaboration tools
+
+- Knowledge Transfer : When employees leave the organization or move to different
+
+roles, knowledge transfer processes ensure that their expertise and insights are passed
+on to others, preventing knowledge loss.
+
+Knowledge Application : The ultimate goal of knowledge management is to apply
+the captured knowledge to improve decision-making, problem-solving and business
+processes. Knowledge is a valuable asset only when it is put to practical use.
+Continuous Improvement : KM is an ongoing process of continuous learning and
+improvement. Organizations need to regularly assess their KM strategies. identify
+areas for enhancement and adapt to changing business needs and technologies.
+
+* Knowledge Management can be categorized into two types :
+
+Explicit Knowledge Management : This refers to the management of tangible and
+codified knowledge that can be easily documented, written down and shared.
+Examples include reports, manuals, databases and other structured content.
+
+Tacit Knowledge Management : This involves managing intangible knowledge that
+resides in people's minds, experiences and expertise, Tacit knowledge is often more
+challenging to articulate and share, but it is valuable for decision-making and
+
+problem-solving.
+
+© Effective Knowledge Management fosters a culture of learning and collaboration,
+
+leading to improved innovation, competitive advantage and overall organizational
+
+performance.
+
+TECHNICAL PUBLICATIONS® - an up-thrust for knowledge
+

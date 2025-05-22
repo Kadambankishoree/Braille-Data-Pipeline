@@ -1,0 +1,55 @@
+Business Analytics 2-13
+
+Business Intelligence
+
+8. Cloud-based Costs : If the organization opts for cloud-based data marts, costs can
+be more flexible and based on usage. Cloud providers typically offer pricing models
+based on resources consumed, storage capacity, data transfer and computing power.
+It's important to monitor and optimize cloud costs to avoid unexpected expenses.
+
+a marts can vary significantly depending on the
+
+organization's specific needs and circumstances. Conducting a thorough cost analysis,
+
+considering both upfront and ongoing expenses, will help in estimating and budgeting
+for data mart implementation and maintenance. Additionally, exploring cost
+optimization strategies such as infrastructure consolidation, open-source alternatives,
+
+It's worth noting that the cost of
+
+and efficient resource utilization can help minimize expenses.
+
+Data Mart versus Data warehouse
+
+Data Mart and Data Warehouse are both components of a Business Intelligence (BI)
+architecture, but they serve different purposes and have distinct characteristics. Here are
+the key differences between the two :
+
+Operational c > Analytics
+system —= a
+=
+
+=
+" KF
+Operational ce Reportin:
+system — = Penna
+Summary
+data
+Flat files Inventory
+
+Fig. 2.1.1 Data mart versus Data warehouse
+
+Sr.No. Parameters Data warehouse Data mart
+
+1.
+
+Scope A data warehouse is a centralized A data mart is a subset of a data
+repository that stores large volumes — warehouse and focuses on a
+of integrated, historical data from specific subject area, department or
+multiple sources within an user group within the organization.
+organization. It aims to provide a It contains a more focused and
+comprehensive view of the entire tailored set of data that caters to the
+organization's data across different needs of a specific business
+subject areas, function.
+
+TECHNICAL PUBLICATIONS® - an up-thrust for knowledge

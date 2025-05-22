@@ -1,0 +1,60 @@
+Business Analytics 2-7 - __ Business Intelligence
+
+warehouse and is designed to meet the specific reporting and analytical needs of a
+,
+
+particular business unit or user group.
+
+e Here are some key characteristics and considerations related to data marts in data
+
+warehousing :
+
+1.
+
+. Incremental Development : Data marts
+
+Subject-Oriented : A data mart is typically organized around a specific subject area,
+such as sales, marketing, finance or human resources. It contains data that is relevant
+and tailored to the analytical requirements of that particular subject or department.
+
+. Data Granularity : Data marts often store data at a more detailed and granular level
+
+compared to the data warehouse. This allows for more in-depth analysis and
+reporting within the specific subject area. Data aggregation and summarization may
+still occur in the data mart, but at a level suitable for the subject's requirements.
+
+. Data Integration : Data marts can be created by extracting and transforming data
+
+from the central data warehouse or by directly integrating data from various source
+systems. Depending on the approach, data integration processes, such as ETL
+(Extract, Transform, Load), are performed to populate and update the data mart with
+the relevant data.
+
+. Data Modeling : Data marts have their own data models tailored to the specific
+
+subject area. These models are designed to support the reporting and analytical needs
+of the subject, providing a simplified and focused view of the data. Dimensional
+modeling, such as star schema or snowflake schema, is commonly used in data mart
+design.
+
+User-Focused : Data marts are designed to cater to the needs of specific user groups
+or business units within an organization. They are optimized for the reporting and
+analysis requirements of those users, providing a user-friendly and intuitive interface
+to access and explore the data.
+
+. Performance and Scalability : Data marts are designed to deliver high performance
+
+for queries and reporting within their subject area. By focusing on a specific subset
+of data, data marts can be optimized for faster response times and improved query
+performance. However, it is important to ensure that data marts are scalable to handle
+increasing data volumes and evolving analytical needs.
+
+re often built incrementally, starting with
+
+the most critical or high-priority subject areas. This allows for faster implementation
+and quicker delivery of analytical capabilities to users. As the organization's data
+warehousing needs evolve, additional data marts can be created to cover other
+
+subject areas.
+
+TECHNICAL PUBLICATIONS® - an up-thrust for knowledge
